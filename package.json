@@ -1,0 +1,9 @@
+{
+  "name": "bloodlands-trader",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bloodlands manual DayZ trader order website prototype",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
